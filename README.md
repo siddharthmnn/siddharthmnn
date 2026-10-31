@@ -1,7 +1,7 @@
 <!-- Profile README for github.com/siddharthmnn -->
 
 <p align="center">
-  <img src="assets/profile-header.svg" alt="Siddharth S Menon" width="100%" />
+  <img src="assets/profile-header.gif" alt="Siddharth S Menon" width="100%" />
 </p>
 
 <p align="center">
@@ -50,10 +50,10 @@ PES University
 ### Research
 
 **Catena — Graph-Aware Runtime Defense Against Multi-Stage Attacks in Distributed LLM Agents**  
-`IN PROGRESS` · Working on runtime defense for distributed LLM agent architectures.
+**IN PROGRESS** · Working on runtime defense for distributed LLM agent architectures.
 
 **V2X & Autonomous Vehicle Networking**  
-`IN PROGRESS` · Working with SUMO-based traffic simulation and V2X communication as part of the **Center for Computer Networks and Cyber Security (CCNCS), PES University**.
+**IN PROGRESS** · Working with SUMO-based traffic simulation and V2X communication as part of the **Center for Computer Networks and Cyber Security (CCNCS), PES University**.
 
 ---
 
@@ -91,27 +91,24 @@ PES University
   <img src="https://skillicons.dev/icons?i=linux,aws,kubernetes,docker,git&theme=dark" alt="Linux, AWS, Kubernetes, Docker and Git" />
 </p>
 
-**AI / Retrieval:** `BM25` · `ChromaDB` · `RAG` · `Embeddings` · `Semantic Search`
+**AI / Retrieval:** BM25 · ChromaDB · RAG · Embeddings · Semantic Search
 
 ---
 
 ## GitHub Activity
 
 <p align="center">
-  <a href="https://github.com/siddharthmnn">
-    <img width="49%" height="165" src="https://github-readme-stats.vercel.app/api?username=siddharthmnn&show_icons=true&include_all_commits=true&hide_border=true&bg_color=0D1117&title_color=C4B5FD&icon_color=A78BFA&text_color=CBD5E1" alt="Siddharth's GitHub statistics" />
-  </a>
-  <a href="https://github.com/siddharthmnn">
-    <img width="49%" height="165" src="https://streak-stats.demolab.com?user=siddharthmnn&theme=transparent&hide_border=true&ring=A78BFA&fire=C084FC&currStreakLabel=C4B5FD&sideLabels=C4B5FD&dates=94A3B8&currStreakNum=FFFFFF&sideNums=FFFFFF" alt="Siddharth's GitHub streak" />
-  </a>
+  <img src="assets/github-stats.svg" alt="GitHub statistics for siddharthmnn" width="100%" />
 </p>
 
 <p align="center">
-  <img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=siddharthmnn&bg_color=0D1117&color=C4B5FD&line=8B5CF6&point=E9D5FF&area=true&hide_border=true" alt="Siddharth's GitHub contribution activity graph" />
+  <img src="assets/contribution-graph.svg" alt="GitHub contribution activity for siddharthmnn over the last 12 months" width="100%" />
 </p>
+
+<sub>Statistics are generated from GitHub and refreshed daily by GitHub Actions.</sub>
 
 ---
 
 <p align="center">
-  <img src="assets/profile-footer.svg" alt="thanks for stopping by :)" width="100%" />
+  <img src="assets/profile-footer.gif" alt="thanks for stopping by :) — animated purple waves" width="100%" />
 </p>
