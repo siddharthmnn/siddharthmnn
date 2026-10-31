@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="150" viewBox="0 0 1200 150" role="img" aria-labelledby="title desc">
+<title id="title">thanks for stopping by :)</title>
+<desc id="desc">A dark purple footer with animated pixel waves and the text thanks for stopping by.</desc>
+<defs>
+  <linearGradient id="bg" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#10071D"/><stop offset=".5" stop-color="#25103D"/><stop offset="1" stop-color="#10071D"/></linearGradient>
+  <style>
+    @keyframes fadeIn { from { opacity: 0; } to { opacity: 1; } }
+    @keyframes drift { 0%,100% { transform: translateX(-5px); } 50% { transform: translateX(8px); } }
+    .fade { animation: fadeIn 1.8s ease-out both; }
+    .wave { animation: drift 8s ease-in-out infinite; }
+    @media (prefers-reduced-motion: reduce) { .fade,.wave { animation: none; } }
+  </style>
+</defs>
+<rect width="1200" height="150" rx="16" fill="url(#bg)"/>
+<rect x="1" y="1" width="1198" height="148" rx="15" fill="none" stroke="#7C3AED" stroke-opacity=".42"/>
+<g class="wave" fill="#A855F7">
+  <rect x="30" y="37" width="8" height="8" opacity=".35"/><rect x="44" y="29" width="8" height="8" opacity=".45"/><rect x="58" y="21" width="8" height="8" opacity=".55"/><rect x="72" y="29" width="8" height="8" opacity=".5"/><rect x="86" y="37" width="8" height="8" opacity=".4"/>
+  <rect x="1100" y="104" width="8" height="8" opacity=".35"/><rect x="1114" y="96" width="8" height="8" opacity=".45"/><rect x="1128" y="88" width="8" height="8" opacity=".55"/><rect x="1142" y="96" width="8" height="8" opacity=".5"/><rect x="1156" y="104" width="8" height="8" opacity=".4"/>
+</g>
+<g class="fade" fill="none" stroke="#C084FC" stroke-width="2" opacity=".48">
+  <path d="M0 82 Q160 8 310 82 T620 82"/><path d="M580 115 Q740 41 890 115 T1200 115"/>
+</g>
+<g class="fade">
+  <text x="600" y="83" fill="#E9D5FF" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="34" text-anchor="middle">thanks for stopping by :)</text>
+</g>
+</svg>
