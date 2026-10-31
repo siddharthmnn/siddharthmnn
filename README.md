@@ -1,16 +1,117 @@
-## Hi there 👋
+<!-- Profile README for github.com/siddharthmnn -->
 
-<!--
-**siddharthmnn/siddharthmnn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <img src="assets/profile-header.svg" alt="Siddharth S Menon" width="100%" />
+</p>
 
-Here are some ideas to get you started:
+<p align="center">
+  <img
+    src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=18&pause=1100&color=C084FC&center=true&vCenter=true&width=850&height=45&duration=2800&repeat=true&lines=Comp+Sci+Undergraduate%3BSoftware+Engineering+%26+Infrastructure%3BC%2FC%2B%2B+%7C+Python+%7C+Linux%3BMostly+at+the+terminal+%F0%9F%A5%B8"
+    alt="Comp Sci Undergraduate · Software Engineering and Infrastructure · C/C++ | Python | Linux · Mostly at the terminal"
+  />
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center">
+  <a href="https://www.linkedin.com/in/siddharthmnn/">LinkedIn</a>
+  ·
+  <a href="https://github.com/siddharthmnn">GitHub</a>
+  ·
+  <img src="https://komarev.com/ghpvc/?username=siddharthmnn&style=flat-square&color=8B5CF6&label=PROFILE+VIEWS" alt="Profile views" />
+</p>
+
+---
+
+## About Me
+
+I like building things, figuring out how they work, and occasionally breaking them in the process.
+
+Most of my time goes into software development, backend systems, Linux, databases, and networking. I enjoy coding, working with Linux, building backend applications, and understanding how systems work. I particularly like the lower-level stuff — operating systems, networking, databases, and the things that make software actually run.
+
+I'm also heavily interested in cybersecurity, cryptography, and network security. I spend quite a bit of time on CTFs, solving challenges, and learning different attack techniques. I've also hosted CTF challenges and conducted technical workshops at college.
+
+Outside of that, I'm interested in AI, cloud infrastructure, and distributed systems. Always up for a good technical rabbit hole.
+
+---
+
+## Now
+
+### Education
+
+**B.Tech in Computer Science and Engineering**  
+PES University
+
+### Engineering
+
+- Building backend services and AI-powered applications.
+- Worked on RAG retrieval workflows involving document chunking, BM25, ChromaDB, query processing, relevance ranking, and context augmentation.
+- Implemented a BM25-based vectorless retrieval pipeline and worked with dense retrieval, embeddings, semantic search, and hybrid retrieval.
+- Developed Python prototypes for retrieval systems and documented their architectures and technical workflows.
+
+### Research
+
+**Catena — Graph-Aware Runtime Defense Against Multi-Stage Attacks in Distributed LLM Agents**  
+`IN PROGRESS` · Working on runtime defense for distributed LLM agent architectures.
+
+**V2X & Autonomous Vehicle Networking**  
+`IN PROGRESS` · Working with SUMO-based traffic simulation and V2X communication as part of the **Center for Computer Networks and Cyber Security (CCNCS), PES University**.
+
+---
+
+## Areas of Interest
+
+| Category | Interests |
+|---|---|
+| **Systems & Programming** | Linux, C/C++, Python, Operating Systems, Systems Design |
+| **Networking** | Computer Networking, Network Protocols, Distributed Systems |
+| **Backend & Databases** | Backend Development, REST APIs, SQL, PostgreSQL |
+| **Development Tools** | Git, GitHub, Bash, Docker, VS Code, CI/CD |
+| **Cybersecurity** | Applied Cryptography, Application Security, Network Security, Vulnerability Research, Penetration Testing |
+| **Cloud & Infrastructure** | AWS, Kubernetes, Kubernetes Security |
+| **AI** | Generative AI, RAG Systems, LLM Applications |
+
+---
+
+## Technologies & Tools
+
+**Languages**
+
+<p>
+  <img src="https://skillicons.dev/icons?i=c,cpp,python,go,js&theme=dark" alt="C, C++, Python, Go and JavaScript" />
+</p>
+
+**Backend & Databases**
+
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,express,postgres,sqlite&theme=dark" alt="Node.js, Express, PostgreSQL and SQLite" />
+</p>
+
+**Systems & Infrastructure**
+
+<p>
+  <img src="https://skillicons.dev/icons?i=linux,aws,kubernetes,docker,git&theme=dark" alt="Linux, AWS, Kubernetes, Docker and Git" />
+</p>
+
+**AI / Retrieval:** `BM25` · `ChromaDB` · `RAG` · `Embeddings` · `Semantic Search`
+
+---
+
+## GitHub Activity
+
+<p align="center">
+  <a href="https://github.com/siddharthmnn">
+    <img width="49%" height="165" src="https://github-readme-stats.vercel.app/api?username=siddharthmnn&show_icons=true&include_all_commits=true&hide_border=true&bg_color=0D1117&title_color=C4B5FD&icon_color=A78BFA&text_color=CBD5E1" alt="Siddharth's GitHub statistics" />
+  </a>
+  <a href="https://github.com/siddharthmnn">
+    <img width="49%" height="165" src="https://streak-stats.demolab.com?user=siddharthmnn&theme=transparent&hide_border=true&ring=A78BFA&fire=C084FC&currStreakLabel=C4B5FD&sideLabels=C4B5FD&dates=94A3B8&currStreakNum=FFFFFF&sideNums=FFFFFF" alt="Siddharth's GitHub streak" />
+  </a>
+</p>
+
+<p align="center">
+  <img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=siddharthmnn&bg_color=0D1117&color=C4B5FD&line=8B5CF6&point=E9D5FF&area=true&hide_border=true" alt="Siddharth's GitHub contribution activity graph" />
+</p>
+
+---
+
+<p align="center">
+  <img src="assets/profile-footer.svg" alt="thanks for stopping by :)" width="100%" />
+</p>
